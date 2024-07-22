@@ -1,7 +1,7 @@
 # Sistem-Perpustakaan-Sekolah
-Nama Project ini adalah : LibraryKey
+Nama Project ini adalah : keylibrary
 
-LibraryKey adalah sebuah aplikasi berbasis website yang memberikan pelayanan berupa sistem peminjaman dan pengelolaan buku perpustakaan.
+keylibrary adalah sebuah aplikasi berbasis website yang memberikan pelayanan berupa sistem peminjaman dan pengelolaan buku perpustakaan.
 
 website ini dibuat menggunakan framework bootstrap, javascript, php dan database mysql.
 
